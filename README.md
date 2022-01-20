@@ -1,4 +1,4 @@
-#๒ thai wordlist in JSON format without Single Charater word
+## thai wordlist in JSON format without Single Charater word
 คำศัพท์ไทย จากพจนานุกรมราชบัณฑิตถยสถาน ในรูปแบบ JSON แบบตัดพยัญชนะเดียวออก
 
 
